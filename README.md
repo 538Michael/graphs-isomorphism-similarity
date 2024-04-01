@@ -1,1 +1,15 @@
-# graphs-isomorphism-similarity
+
+# Isomorfismo e Similaridade em Grafos
+
+Neste projeto, da disciplina de Algoritmos em Grafos, foi desenvolvido dois algoritmos para verificar o isomorfismo e similaridade entre grafos. Foram utilizados o material ministrado em sala para desenvolvimento dos mesmos.
+
+**Aluno:** Michael Silva de Souza <br />
+**Matrícula:** 910241MA005
+
+## Como rodar:
+
+- Primeiro, precisará ter o python instalado e também recomendado o vscode;
+- Após isso é recomendado criar um ambiente virtual (python -m venv .venv);
+- Ao abrir o arquivo, basta apertar o botão "Run All", no menu na parte superior;
+- Se quiser adicionar alguma matriz de adjacência ao programa, basta adicionar uma célula de código logo após a última matriz escrita no código.
+- O resultado dos algoritimos são mostrados após o bloco de cada algoritmo, na ordem que as matrizes foram inseridas no inicio do código.
