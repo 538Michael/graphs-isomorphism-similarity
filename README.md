@@ -8,6 +8,8 @@ Neste projeto, da disciplina de Algoritmos em Grafos, foi desenvolvido dois algo
 
 ## Como rodar:
 
+(Para uma melhor experiência, utilizar o .ipynb Jupyter Notebook para executar, mas também existe a possibilidade de rodar o .py)
+
 - Primeiro, precisará ter o python instalado e também recomendado o vscode;
 - Após isso é recomendado criar um ambiente virtual `python -m venv .venv`;
 - Ative o ambiente virtual no seu SO respectivo.
